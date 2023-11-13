@@ -2,5 +2,5 @@
 
 My attempt to write an OS by RUST / LUA
 
-<img width="292" alt="DALL·E 2023-11-13 15 11 20 - Create a simplified version of the 'MycoMantle OS' logo  The design should feature a minimalist mushroom cap silhouette with an integrated mycelium ne" src="https://github.com/Somayyah/MycoMantle-OS/assets/55834191/a6a4e77c-d727-4076-955c-ccaeabc9d226">
+![DALL·E 2023-11-13 19 31 37 - Design a very simplified logo for 'MycoMantle OS' on a white background  The logo should feature a very basic silhouette of a mushroom cap with a myce](https://github.com/Somayyah/MycoMantle-OS/assets/55834191/e92dfa89-bf9b-481a-93b4-5e7457ffefb7)
 
