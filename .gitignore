@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/lua,rust-analyzer,rust,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=lua,rust-analyzer,rust,c++
 
+### Assembler ###
+*.exe
+*.o
+*.obj
+*.bc
+
+# End of https://www.toptal.com/developers/gitignore/api/assembler
 ### C++ ###
 # Prerequisites
 *.d
